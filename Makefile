@@ -8,3 +8,4 @@ schrodinger:
         rm -rf *.o
 clean:
         rm -rf *.o *.mod *.x
+        
